@@ -1,3 +1,4 @@
+layout_spectrum: 0.4288900815881789
 typography_spectrum: 0.6915509274695069
 color:
   brandStrength: 0.6487128650769591
@@ -10,6 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.4288900815881789
 name: TOBA
-title: The Old Bastards Association
