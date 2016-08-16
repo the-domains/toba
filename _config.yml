@@ -1,0 +1,14 @@
+layout_spectrum: 0.4288900815881789
+typography_spectrum: 0.6915509274695069
+color:
+  brandStrength: 0.6487128650769591
+  lightness: 0.47047250159084797
+  saturation: 0.5539633464068174
+  rhythmicContrast: 0.9394973155576736
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: TOBA
