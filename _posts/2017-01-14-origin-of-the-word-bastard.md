@@ -7,16 +7,16 @@ description: >-
   (which reminds one of Shakespeare's "Why brand they us with base? with
   baseness? bastardy? base, base?"). There is also Gothic Bansts, or modern
   boose (cattle crib).
-dateModified: '2017-01-14T20:29:06.294Z'
-datePublished: '2017-01-14T20:29:56.504Z'
+dateModified: '2017-01-14T20:30:34.749Z'
+datePublished: '2017-01-14T20:30:35.126Z'
 title: Origin Of The Word Bastard
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-14-origin-of-the-word-bastard.md
 starred: false
 datePublishedOriginal: '2017-01-14T20:29:56.504Z'
-sourcePath: _posts/2017-01-14-origin-of-the-word-bastard.md
 url: origin-of-the-word-bastard/index.html
 _type: Article
 
