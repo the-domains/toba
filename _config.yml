@@ -1,4 +1,3 @@
-layout_spectrum: 0.44950208412584763
 typography_spectrum: 0.5331816761221478
 color:
   brandStrength: 0.8143434133259857
@@ -12,6 +11,7 @@ color:
     - '#EABE32'
     - '#FFFFFF'
 github: true
+layout_spectrum: 0.44950208412584763
 analytics:
   twitter: personal
 author:
@@ -19,6 +19,10 @@ author:
   email: dacalford@gmail.com
   url: thegrid.ai/toba
 name: TOBA
+navigation:
+  - name: About TOBA
+    id: d3a8944a-8752-43d6-bcf5-598ddaa64294
+    type: content
 title: The Old Bastards Association
 content: []
 description: Youth is wasted on the Young
